@@ -1,0 +1,3 @@
+setpgid: set process group identificator
+tty
+sigitin=xi jin pin
